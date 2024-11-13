@@ -1,4 +1,4 @@
-from tree import Node
+from python.tree import Node
 
 dream = [
   [1, 3, 1],
